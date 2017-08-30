@@ -101,7 +101,7 @@ valid = false;
 <TABLE>
 <TR>
 <TD COLSPAN="1" ALIGN="LEFT">password:</TD>
-<TD ALIGN="left"><INPUT TYPE="TEXT" NAME="password26" SIZE=20></TD>
+<TD ALIGN="left"><INPUT TYPE="password" NAME="password26" SIZE=20></TD>
 </TR>
 </TABLE>
 <BR>
