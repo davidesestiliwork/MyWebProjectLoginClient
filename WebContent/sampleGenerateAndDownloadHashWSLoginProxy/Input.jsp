@@ -85,9 +85,9 @@ valid = false;
 <TD COLSPAN="1" ALIGN="LEFT">modeParam:</TD>
 <TD ALIGN="left">
 <select name="modeParam22">
-		<option selected="selected" value="not-recursive">Non ricorsivo</option>
+		<option value="not-recursive">Non ricorsivo</option>
 		<option value="recursive">Ricorsivo</option>
-		<option value="no-subfolders">Senza sottocartelle</option>
+		<option selected="selected" value="no-subfolders">Senza sottocartelle</option>
 </select>
 </TD>
 </TR>
