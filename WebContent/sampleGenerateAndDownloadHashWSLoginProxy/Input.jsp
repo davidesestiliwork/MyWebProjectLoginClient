@@ -72,8 +72,8 @@ valid = false;
 <select name="algorithm20">
 		<option>MD2</option>
 		<option>MD5</option>
-		<option selected="selected">SHA-1</option>
-		<option>SHA-256</option>
+		<option>SHA-1</option>
+		<option selected="selected">SHA-256</option>
 		<option>SHA-384</option>
 		<option>SHA-512</option>
 	</select>
